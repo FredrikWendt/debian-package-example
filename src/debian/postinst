@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chown -R www-data:www-data /var/www/backend
+touch /tmp/postinstall-was-run-now-`date +%s`

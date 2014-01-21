@@ -1,0 +1,7 @@
+Package: PACKAGE
+Version: VERSION
+Section: user/hidden 
+Priority: optional
+Architecture: all
+Maintainer: Fredrik Wendt <fredrik.wendt@squeed.com>
+Description: DESCRIPTION
